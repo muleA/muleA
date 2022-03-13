@@ -82,8 +82,7 @@ YAML         2 mins          ░░░░░░░░░░░░░░░░░
 
 #### Github Stats
 
-![mulugetas's github stats](https://github-readme-stats.vercel.app/api?username=muleA&count_private=true&theme=tokyonight&hide=contribs,prs)
-
+[![Mulugeta's GitHub stats](https://github-readme-stats.vercel.app/api?username=muleA)](https://github.com/muleA/github-readme-stats)
 </details>
 
 
