@@ -57,7 +57,7 @@ I'm Mulugeta Adamu a Front End Web Developer . I Spend most of time coding outst
 
 #### Profile Visits 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ipenywis.ipenywis)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=muleA)
 
 <details>
 <summary>
@@ -82,7 +82,7 @@ YAML         2 mins          ░░░░░░░░░░░░░░░░░
 
 #### Github Stats
 
-![mulugetas's github stats](https://github-readme-stats.vercel.app/api?username=ipenywis&count_private=true&theme=tokyonight&hide=contribs,prs)
+![mulugetas's github stats](https://github-readme-stats.vercel.app/api?username=muleA&count_private=true&theme=tokyonight&hide=contribs,prs)
 
 </details>
 
