@@ -27,6 +27,7 @@ I'm Mulugeta Adamu a Front End Web Developer . I Spend most of time coding outst
 ### Skills
 
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />[react]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muleA&hide=javascript,html)](https://github.com/muleA/github-readme-stats)
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />[html]
 
@@ -69,5 +70,5 @@ I'm Mulugeta Adamu a Front End Web Developer . I Spend most of time coding outst
 [![Mulugeta's GitHub stats](https://github-readme-stats.vercel.app/api?username=muleA&show_icons=true&theme=cobalt)](https://github.com/muleA/github-readme-stats)
 </details>
 
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=muleA&repo=github-readme-stats)](https://github.com/muleA/github-readme-stats)
 
