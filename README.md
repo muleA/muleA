@@ -4,7 +4,7 @@ I'm Mulugeta Adamu a Front End Web Developer . I Spend most of time coding outst
 
 :mailbox: Reach me out!
 
-[![Twitter Badge](https://img.shields.io/badge/-@Ipenywis-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/@mulugetaAdamu97) 
+[![Twitter Badge](https://img.shields.io/badge/-@Ipenywis-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/mulugeta)](https://twitter.com/@mulugetaAdamu97) 
  [![Linkedin Badge](https://img.shields.io/badge/-Islem-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mulugeta-adamu-a92007196/) 
  [![Mail Badge](https://img.shields.io/badge/-@islempenywis-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/muleadamu/)
   [![Mail Badge](https://img.shields.io/badge/-islempenywis-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:adamu.mulugeta@yahoo.com)
@@ -37,9 +37,6 @@ I'm Mulugeta Adamu a Front End Web Developer . I Spend most of time coding outst
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-
-<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
-
 <img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />
 
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
@@ -54,7 +51,7 @@ I'm Mulugeta Adamu a Front End Web Developer . I Spend most of time coding outst
 <br />
 
 #### Profile
-- :paperclip: [My Resume/CV](https://github.com/muleA/)
+- :paperclip: [My Resume/CV](https://github.com/muleA/muleA/blob/main/cv%20%20Mulugeta%20Adamu.pdf)
 - :email: adamu.mulugeta@yahoo.com
 
 
