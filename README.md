@@ -78,7 +78,7 @@ YAML         2 mins          ░░░░░░░░░░░░░░░░░
 
 #### Github Stats
 
-[![Mulugeta's GitHub stats](https://github-readme-stats.vercel.app/api?username=muleA)](https://github.com/muleA/github-readme-stats)
+[![Mulugeta's GitHub stats](https://github-readme-stats.vercel.app/api?username=muleA&show_icons=true&theme=cobalt)](https://github.com/muleA/github-readme-stats)
 </details>
 
 
