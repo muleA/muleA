@@ -60,11 +60,7 @@ I'm Mulugeta Adamu a Front End Web Developer . I Spend most of time coding outst
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=muleA)
 
 <details>
-<summary>
-  More stuff about me
-</summary>
 
-<br >
 
 
 
