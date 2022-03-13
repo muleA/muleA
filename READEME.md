@@ -4,10 +4,10 @@ I'm Mulugeta Adamu a Front End Web Developer . I Spend most of time coding outst
 
 :mailbox: Reach me out!
 
-[![Twitter Badge](https://img.shields.io/badge/-@Ipenywis-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/@mulugetaAdamu97) 
- [![Linkedin Badge](https://img.shields.io/badge/-Islem-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mulugeta-adamu-a92007196/) 
- [![Mail Badge](https://img.shields.io/badge/-@islempenywis-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/muleadamu/)
-  [![Mail Badge](https://img.shields.io/badge/-islempenywis-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:adamu.mulugeta@yahoo.com)
+[![Twitter Badge](https://img.shields.io/badge/-@mulugeta-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/mulugeta)](https://twitter.com/@mulugetaAdamu97) 
+ [![Linkedin Badge](https://img.shields.io/badge/-mulugeta-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mulugeta-adamu-a92007196/) 
+ [![Mail Badge](https://img.shields.io/badge/-@mulugeta-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/muleadamu/)
+  [![Mail Badge](https://img.shields.io/badge/-mulugeta-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:adamu.mulugeta@yahoo.com)
 
 <!-- TODO: Add last video link -->
 
@@ -85,7 +85,7 @@ YAML         2 mins          ░░░░░░░░░░░░░░░░░
 
 #### Github Stats
 
-![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=ipenywis&count_private=true&theme=tokyonight&hide=contribs,prs)
+![mulugeta's github stats](https://github-readme-stats.vercel.app/api?username=ipenywis&count_private=true&theme=tokyonight&hide=contribs,prs)
 
 </details>
 
