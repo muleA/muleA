@@ -5,9 +5,6 @@ I'm Mulugeta Adamu a Software Developer . I Spend most of time coding outstandin
 - 🔭 I’m currently working at @Perago Information System's Plc
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🤔 I’m looking for help with Outstanding Project ideas.
-- 📫 How to reach me: adamu.mulugeta@yahoo.com.
-- 😄 reach me through telegram https://t.me/mulugeta_adamu.
-- ⚡ Fun fact: I play games and go to the Church very often.
 - 🔭 I’m currently working on [Portifolio Website](https://github.com/Mulugeta-sPublishedProjects/mulugeta.com)
 
 - 🌱 I’m currently learning **Nodejs, Nestjs,Angularjs andTelegraph.js**
@@ -21,6 +18,19 @@ I'm Mulugeta Adamu a Software Developer . I Spend most of time coding outstandin
 - 📫 How to reach me **mulugeta.adamu97@gmail.com**
 
 - 📄 Know about my experiences [https://mulugeta.vercel.app/#/](https://mulugeta.vercel.app/#/)
+- #### Github Stats
+
+[![Mulugeta's GitHub stats](https://github-readme-stats.vercel.app/api?username=muleA&show_icons=true&theme=cobalt)](https://github.com/muleA/github-readme-stats)
+</details>
+<h1 align="center">Hi 👋, I'm Mulugeta Adamu</h1>
+<h3 align="center">A passionate frontend developer from Ethiopia</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=muleA&label=Profile%20views&color=0e75b6&style=flat" alt="mulea" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mulea" alt="mulea" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/mulugetaadamu97" target="blank"><img src="https://img.shields.io/twitter/follow/mulugetaadamu97?logo=twitter&style=for-the-badge" alt="mulugetaadamu97" /></a> </p>
+
 
 ### Blogs posts
 
@@ -61,16 +71,4 @@ I'm Mulugeta Adamu a Software Developer . I Spend most of time coding outstandin
 
 <!--END_SECTION:waka-->
 
-#### Github Stats
-
-[![Mulugeta's GitHub stats](https://github-readme-stats.vercel.app/api?username=muleA&show_icons=true&theme=cobalt)](https://github.com/muleA/github-readme-stats)
-</details>
-<h1 align="center">Hi 👋, I'm Mulugeta Adamu</h1>
-<h3 align="center">A passionate frontend developer from Ethiopia</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muleA&label=Profile%20views&color=0e75b6&style=flat" alt="mulea" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mulea" alt="mulea" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/mulugetaadamu97" target="blank"><img src="https://img.shields.io/twitter/follow/mulugetaadamu97?logo=twitter&style=for-the-badge" alt="mulugetaadamu97" /></a> </p>
 
