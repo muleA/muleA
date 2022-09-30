@@ -3,35 +3,13 @@ I'm Mulugeta Adamu a Software Developer . I Spend most of time coding outstandin
 <!-- TODO: Add last video link -->
 
 - 🔭 I’m currently working at @Perago Information System's Plc
-- :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🤔 I’m looking for help with Outstanding Project ideas.
-- 🔭 I’m currently working on [Portifolio Website](https://github.com/Mulugeta-sPublishedProjects/mulugeta.com)
-
+- 🔭 view My Portifolio websiteon https://myportifolio-mulea.vercel.app/
 - 🌱 I’m currently learning **Nodejs, Nestjs,Angularjs andTelegraph.js**
-
-- 👨‍💻 All of my projects are available at [https://mulugeta.vercel.app/#/](https://mulugeta.vercel.app/#/)
-
-- 📝 I regularly write articles on [https://mulugeta.vercel.app/#/](https://mulugeta.vercel.app/#/)
-
-- 💬 Ask me about **reactjs,nextjs**
-
+- 💬 Ask me about **reactjs,nextjs,javascript, typscript**
 - 📫 How to reach me **mulugeta.adamu97@gmail.com**
-
 - 📄 Know about my experiences [https://mulugeta.vercel.app/#/](https://mulugeta.vercel.app/#/)
-- #### Github Stats
-
-[![Mulugeta's GitHub stats](https://github-readme-stats.vercel.app/api?username=muleA&show_icons=true&theme=cobalt)](https://github.com/muleA/github-readme-stats)
 </details>
-<h1 align="center">Hi 👋, I'm Mulugeta Adamu</h1>
-<h3 align="center">A passionate frontend developer from Ethiopia</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muleA&label=Profile%20views&color=0e75b6&style=flat" alt="mulea" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mulea" alt="mulea" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/mulugetaadamu97" target="blank"><img src="https://img.shields.io/twitter/follow/mulugetaadamu97?logo=twitter&style=for-the-badge" alt="mulugetaadamu97" /></a> </p>
-
-
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
@@ -39,6 +17,11 @@ I'm Mulugeta Adamu a Software Developer . I Spend most of time coding outstandin
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=muleA&label=Profile%20views&color=0e75b6&style=flat" alt="mulea" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mulea" alt="mulea" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/mulugetaadamu97" target="blank"><img src="https://img.shields.io/twitter/follow/mulugetaadamu97?logo=twitter&style=for-the-badge" alt="mulugetaadamu97" /></a> </p>
 <a href="https://dev.to/mulea" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mulea" height="30" width="40" /></a>
 <a href="https://twitter.com/mulugetaadamu97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mulugetaadamu97" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mulugeta-adamu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mulugeta-adamu" height="30" width="40" /></a>
