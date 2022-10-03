@@ -1,7 +1,6 @@
 ## Hi I'm Mulugeta <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 I'm Mulugeta Adamu a Software Developer . I Spend most of time coding outstanding projects.
 <!-- TODO: Add last video link -->
-
 - 🔭 I’m currently working at @Perago Information System's Plc
 - 🤔 I’m looking for help with Outstanding Project ideas.
 - 🔭 view My Portifolio websiteon https://myportifolio-mulea.vercel.app/
@@ -39,9 +38,6 @@ I'm Mulugeta Adamu a Software Developer . I Spend most of time coding outstandin
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mulea&show_icons=true&locale=en" alt="mulea" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mulea&" alt="mulea" /></p>
-
-
-
 #### Profile
 - :paperclip: [My Resume/CV](https://github.com/muleA/muleA/blob/main/cv%20%20Mulugeta%20Adamu.pdf)
 - :email: adamu.mulugeta@yahoo.com
