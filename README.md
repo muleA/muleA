@@ -10,7 +10,10 @@ I'm Mulugeta Adamu a Software Developer . I Spend most of time coding outstandin
 - 📄 Know about my experiences [https://mulugeta.vercel.app/#/](https://mulugeta.vercel.app/#/)
 </details>
 - #### Profile Visits 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=muleA)
+<!-- retro visitor counter -->
+ <p align="center"> 
+  <img src="https://profile-counter.glitch.me/{muleA}/count.svg" />
+ </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mulea" alt="mulea" /></a> </p>
 <p align="left"> <a href="https://www.linkedin.com/in/mulugeta-adamu/" target="blank"><img src="https://img.shields.io/linkdedin/follow/mulugeta-adamu/?logo=linkdein&style=for-the-badge" alt="Mulugeta Adamu" /></a> </p>
 <a href="https://dev.to/mulea" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mulea" height="30" width="40" /></a>
