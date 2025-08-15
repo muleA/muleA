@@ -1,45 +1,91 @@
-<h1 align="center">Hi 👋, I'm Mulugeta Adamu</h1>
-<h3 align="center">A passionate frontend developer from Ethiopia</h3>
+<h1 align="center">
+  Hi 👋, I'm Mulugeta Adamu
+</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mulea&label=Profile%20views&color=0e75b6&style=flat" alt="mulea" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mulea" alt="mulea" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/mulugetaadamu97" target="blank"><img src="https://img.shields.io/twitter/follow/mulugetaadamu97?logo=twitter&style=for-the-badge" alt="mulugetaadamu97" /></a> </p>
-
-- 🔭 I’m currently working on [Eservices](http://196.189.44.47:3001/)
-
-- 🌱 I’m currently learning **Vue,Flutter,ReactNative**
-
-- 👨‍💻 All of my projects are available at [https://myportifolio-mulea.vercel.app/](https://myportifolio-mulea.vercel.app/)
-
-- 💬 Ask me about **react,vue,javascript,typescript**
-
-- 📫 How to reach me **mulugeta.adamu97@gamil.com**
-
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1ncAOQbhvWuI8XyfGqv8D1YPJsDy5ZNCp](https://drive.google.com/drive/folders/1ncAOQbhvWuI8XyfGqv8D1YPJsDy5ZNCp)
-
-- ⚡ Fun fact **I regularly visit churches**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/mulea" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mulea" height="30" width="40" /></a>
-<a href="https://twitter.com/mulugetaadamu97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mulugetaadamu97" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mulugeta-adamu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mulugeta-adamu" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/15645073" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15645073" height="30" width="40" /></a>
-<a href="https://fb.com/mulugeta.adamu.4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mulugeta.adamu.4" height="30" width="40" /></a>
-<a href="https://instagram.com/muleadamu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muleadamu" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Senior+Frontend+Engineer+%7C+4%2B+Years+Experience;TypeScript+%7C+Next.js+%7C+Turborepo+%7C+React+Native;Junior+Backend+(NestJS+%26+PostgreSQL);Passionate+About+Clean+Code+%26+Performance" alt="Typing SVG" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a>  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mulea&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mulea&show_icons=true&locale=en&layout=compact" alt="mulea" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mulea&show_icons=true&locale=en" alt="mulea" /></p>
+### 🚀 About Me
+- 💼 **Senior Frontend Engineer** with 4+ years building modern, performant, and scalable web apps.
+- 🛠 **Junior Backend Developer** skilled in **NestJS** and **PostgreSQL**.
+- 📱 Experienced in cross-platform mobile apps using **React Native**.
+- 🌱 Currently exploring **full-stack monorepos**, **system design**, and **backend architecture**.
+- 🗂 [Portfolio](https://myportifolio-mulea.vercel.app/)
+- 📄 [Resume](https://drive.google.com/drive/folders/1ncAOQbhvWuI8XyfGqv8D1YPJsDy5ZNCp)
+- 📫 **mulugeta.adamu97@gmail.com**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mulea&" alt="mulea" /></p>
+---
+
+### 🧠 My Skillset
+
+**Frontend Development:**
+<p>
+  <img src="https://skillicons.dev/icons?i=typescript,nextjs,react,tailwind,redux,zustand,vue,nuxt,webpack,vite" />
+</p>
+- TypeScript, ES6+, React, Next.js (App Router), Turborepo  
+- State Management: Redux Toolkit, Zustand, Context API  
+- Styling: Tailwind CSS, CSS Modules, SCSS  
+- Data Fetching: React Query / TanStack Query, SWR  
+- Form Handling: React Hook Form, Zod Validation  
+- Testing: Jest, React Testing Library, Cypress  
+- Storybook for UI documentation  
+- Performance Optimization (Code Splitting, Lazy Loading, Image Optimization)
+
+**Backend Development:**
+<p>
+  <img src="https://skillicons.dev/icons?i=nestjs,nodejs,postgresql,mysql,mongodb,prisma" />
+</p>
+- NestJS, Express.js  
+- PostgreSQL, MySQL, MongoDB  
+- Prisma ORM  
+- REST API & GraphQL basics  
+- Authentication: JWT, OAuth2, Session-based
+
+**Mobile Development:**
+<p>
+  <img src="https://skillicons.dev/icons?i=react,androidstudio" />
+</p>
+- React Native CLI & Expo  
+- Cross-platform UI & navigation patterns
+
+**DevOps & Tools:**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,linux,figma,vercel,heroku,docker,githubactions" />
+</p>
+- Git, GitHub, GitHub Actions CI/CD  
+- API testing with Postman  
+- Deployment: Vercel, Netlify, Heroku  
+- Docker basics  
+- Agile workflows & Jira/Trello
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mulea&show_icons=true&theme=radical" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mulea&layout=compact&theme=radical" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mulea&theme=radical&hide_border=false" height="180" />
+</p>
+
+---
+
+### 🌐 Connect With Me
+<p align="left">
+  <a href="https://dev.to/mulea" target="_blank"><img src="https://skillicons.dev/icons?i=devto" height="30" /></a>
+  <a href="https://twitter.com/mulugetaadamu97" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" height="30" /></a>
+  <a href="https://linkedin.com/in/mulugeta-adamu" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="30" /></a>
+  <a href="https://stackoverflow.com/users/15645073" target="_blank"><img src="https://skillicons.dev/icons?i=stackoverflow" height="30" /></a>
+  <a href="https://instagram.com/muleadamu" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="30" /></a>
+</p>
