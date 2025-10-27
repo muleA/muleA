@@ -19,8 +19,7 @@
 - 🛠 **Junior Backend Developer** skilled in **NestJS** and **PostgreSQL**.
 - 📱 Experienced in cross-platform mobile apps using **React Native**.
 - 🌱 Currently exploring **full-stack monorepos**, **system design**, and **backend architecture**.
-- 🗂 [Portfolio](https://myportifolio-mulea.vercel.app/)
-- 📄 [Resume](https://drive.google.com/drive/folders/1ncAOQbhvWuI8XyfGqv8D1YPJsDy5ZNCp)
+- 🗂 [Portfolio](https://mulugeta.is-a.dev/)
 - 📫 **mulugeta.adamu97@gmail.com**
 
 ---
